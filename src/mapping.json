@@ -1,0 +1,9 @@
+{
+    "dynamic": "true",
+    "properties": {
+        "ts": {"type": "date", "format": "yyyy-MM-dd HH:mm:ss"},
+        "orig_ip_bytes": {"type": "integer"},
+        "resp_ip_bytes": {"type": "integer"}
+    }
+}
+
