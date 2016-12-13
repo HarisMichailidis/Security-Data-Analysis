@@ -95,3 +95,4 @@ ENV/
 connection_logs/
 *.csv
 
+/src/.~lock.conn_106_orig.csv#
